@@ -1,4 +1,4 @@
-# boxen
+# ffmpeg
 
 Singularity recipe for [ffmpeg](https://ffmpeg.org/).
 
