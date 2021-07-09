@@ -3,7 +3,7 @@ From: alpine:edge
 Includecmd: no
 
 %labels
-    AUTHOR icaoberg
+    MAINTAINER icaoberg
     EMAIL icaoberg@psc.edu
     WEBSITE https://gitlab.psc.edu/icaoberg/singularity-ffmpeg
     VERSION 4.3.1
