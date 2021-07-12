@@ -13,9 +13,6 @@ whatis("URL: https://www.psc.edu/resources/software")
 whatis("Description: A complete, cross-platform solution to record, convert and stream audio and video.")
 
 help([[
-ffmpeg 4.3.1
--------------
-
 Description
 -----------
 A complete, cross-platform solution to record, convert and stream audio and video.
@@ -31,9 +28,6 @@ To unload the module type
 Documentation
 -------------
 https://ffmpeg.org/documentation.html
-
-Repository
-----------
 https://github.com/FFmpeg/FFmpeg
 
 Tools included in this module are
