@@ -1,6 +1,6 @@
 ![Status](https://github.com/pscedu/singularity-ffmpeg/actions/workflows/main.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-ffmpeg)
-![forks](https://img.shields.io/github/forks/pscedu/singularity-ffmpeg)
+![Forks](https://img.shields.io/github/forks/pscedu/singularity-ffmpeg)
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-ffmpeg)
 ![License](https://img.shields.io/github/license/pscedu/singularity-ffmpeg)
 
