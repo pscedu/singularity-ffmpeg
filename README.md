@@ -4,8 +4,19 @@
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-ffmpeg)
 ![License](https://img.shields.io/github/license/pscedu/singularity-ffmpeg)
 
-## Building the image using the recipe
+# singularity-ffmpeg
 
+## Installing the container on Bridges 2
+Copy the
+
+* `SIF` file
+* and the Perl scripts
+
+to `/opt/packages/ffmpeg/4.3.1`.
+
+Copy the file `modulefile.lua` to `/opt/modulefiles/ffmpeg` as `4.3.1.lua`.
+
+## Building the image using the recipe
 ### To build the image locally
 Run the script `build.sh` to build image locally.
 
@@ -19,15 +30,16 @@ Run the script `rbuild.sh` to build image remotely.
 ```
 bash ./rbuild.sh
 ```
+
 ## To run tests
 To run the available tests, run the command
 
 ```
 bash ./test.sh
 ```
-
 ---
 Copyright © 2020-2021 Pittsburgh Supercomputing Center. All Rights Reserved.
 
 The [Biomedical Applications Group](https://www.psc.edu/biomedical-applications/) at the [Pittsburgh Supercomputing
 Center](http://www.psc.edu) in the [Mellon College of Science](https://www.cmu.edu/mcs/) at [Carnegie Mellon University](http://www.cmu.edu).
+
