@@ -8,7 +8,6 @@ Includecmd: no
     SUPPORT help@psc.edu
     REPOSITORY  https://gitlab.psc.edu/icaoberg/singularity-ffmpeg
     COPYRIGHT Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved. 
-
     VERSION 4.3.1
 
 ####################################################################################
